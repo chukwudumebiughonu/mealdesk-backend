@@ -48,5 +48,4 @@ router.put(
   MyRestaurantController.updateMyRestaurant
 );
 
-
 export default router;
